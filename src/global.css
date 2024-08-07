@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel:wght@400;500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-abel: Abel;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-blueviolet: #4b40ee;
+  --color-gray: #1a243a;
+  --color-darkgray: #999;
+  --color-dimgray: #6f7177;
+  --color-mediumslateblue: #7066ff;
+
+  /* Gaps */
+  --gap-12xl: 31px;
+  --gap-xl: 20px;
+  --gap-59xl: 78px;
+  --gap-37xl: 56px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-41xl: 60px;
+  --padding-11xs: 2px;
+  --padding-8xs: 5px;
+  --padding-sm: 14px;
+  --padding-xs: 12px;
+  --padding-9xs: 4px;
+  --padding-10xs: 3px;
+  --padding-smi: 13px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+}
